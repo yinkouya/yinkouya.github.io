@@ -1,4 +1,10 @@
 baseurl: /yinkouya.github.io
 
+# Site settings
+title: Weiya
+author: Weiya
+description: "Going to put some lyrics here cos obvisouly I can't write anything. Love emoji :love_letter:"
+url: "https://yinkouya.github.io/"
+
 gems:
   - jemoji
