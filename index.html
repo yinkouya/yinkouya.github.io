@@ -1,3 +1,15 @@
+---
+layout: default
+title: Mine
+---
+<h2>{{ page.title }}</h2>
+<p>Latest Post</p>
+<ul>
+  {% for post in site.posts %}
+　  <li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+　　　　{% endfor %}
+</ul>
+
 <!DOCTYPE html>
 <html>
 <head>
