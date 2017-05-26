@@ -6,7 +6,7 @@ title: Weiya
 <p>Latest Post</p>
 <ul>
   {% for post in site.posts %}
-　  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>{{ post.date | date_to_string }}</li>
+　  <li>{{ post.date | date: "%A %B %-d, %Y" }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 　{% endfor %}
 </ul>
 
