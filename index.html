@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Mine
+title: Weiya
 ---
 <h2>{{ page.title }}</h2>
 <p>Latest Post</p>
 <ul>
   {% for post in site.posts %}
-　  <li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-　　　　{% endfor %}
+　  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>{{ post.date | date_to_string }}</li>
+　{% endfor %}
 </ul>
 
 <!DOCTYPE html>
@@ -20,23 +20,7 @@ title: Mine
     <title>weiya</title>
 </head>
 <body>
-    <div class="mynavbar">
-      <div class="collapse" id="navbarToggleExternalContent">
-        <div class="bg-inverse">
-          <nav class="nav">
-            <a class="nav-link active" href="#">Movie</a>
-            <a class="nav-link" href="#">Book</a>
-            <a class="nav-link" href="#">Song</a>
-            <a class="nav-link disabled" href="#">Me</a>
-          </nav>
-        </div>
-      </div>
-      <nav class="navbar navbar-inverse bg-inverse">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-        </button>
-      </nav>
-    </div>
+    
 <h1>Hello World</h1>
 <h2>I've noticed that my head tag is not working, need to check that out. -- should be wrapped by title tag!</h2>
 <h2>Working on the content and style.</h2>
