@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>Weiya</title>
-    </head>
+    {% include head.html %}
     <body>
-          {{ content }}
+          <div class="content" id="header">
+          {% include header.html %}
+          </div>
+          <div class="content" id="main-content">
+              <div class="content-wrapper">
+              {{ content }}
+              </div>
+          </div>
+          {% include footer.html %}
     </body>
 </html>
