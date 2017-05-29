@@ -8,3 +8,6 @@ url: "https://yinkouya.github.io/"
 
 gems:
   - jemoji
+  
+encoding: "utf-8"
+highlighter: rouge
