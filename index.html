@@ -2,19 +2,28 @@
 layout: default
 ---
 
-<section role="banner">
-  <img src="/img/04.jpg" />
-</section>
+<div class="row">
+  <div class="col-sm-7">
+    <section role="banner">
+      <img src="img/yellow_dots.jpg" alt="yellow dots" height="320" width="512">
+    </section>
+    <section class="content">
+      <p>
+      Welcome to my blog. Please, don't laugh, it's a work in porgress.
+      </p>
+    </section>
+  </div>
+  <div class="col-sm-5">
+    <p>Latest Post</p>
+    <ul>
+      {% for post in site.posts %}
+      <li>{{ post.date | date: "%A %B %-d, %Y" }} &nbsp; &nbsp; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
 
-<section class="content">
-  <p>
-  Welcome to my blog. Please, don't laugh, it's a work in porgress.
-  </p>
-</section>
 
-<p>Latest Post</p>
-<ul>
-  {% for post in site.posts %}
-  <li>{{ post.date | date: "%A %B %-d, %Y" }} &nbsp; &nbsp; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+
+
+
