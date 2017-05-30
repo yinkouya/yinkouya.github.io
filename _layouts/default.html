@@ -11,21 +11,33 @@
     <title>
       {% if page.title %} {{ page.title }} | {% endif %} Weiya
     </title>
-    <link rel="icon" type="image/x-icon" href="/images/01.JPG">
+    <link rel="icon" type="image/x-icon" href="/img/01.JPG">
     <link rel="stylesheet" href="{{ site.assets }}/style.css">
     
     </head>
     <body>
+      <div id="main">
+        <header>
+          <h1>
+            Weiya Yin
+          </h1>
+        </header>
         <nav class="nav flex-column">
+          <a class="nav-link" href="#">Home</a>
           <a class="nav-link active" href="https://yinkouya.github.io/">Blog</a>
-          <a class="nav-link" href="/README.md">About me</a>
+          <a class="nav-link" href="/README.md">About</a>
           <a class="nav-link disabled" href="#">Moments</a>
         </nav>
-          <div class="content" id="main-content">
-              <div class="content-wrapper">
-              {{ content }}
-              </div>
-          </div>
+        <div class="content">
+          {{ content }}
+        </div>
+        <footer>
+          <p>
+            @copy; Weiya 2017 May
+          </p>
+        </footer>
+      </div>
+    </body>
         
      <!-- jQuery first, then Tether, then Bootstrap JS. -->
     <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
