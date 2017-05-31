@@ -19,3 +19,6 @@ This blog is so ugly right now, I'm going to fix it up a little bit later today.
 今天真是玩了一天的carousel， 最后一page build failure 告终，我的眼睛也乏的不行了。
 待解决：
 - carousel居中， post靠两边
+- footer跟post叠在一起了
+- carousel的controller点击无法next!大事件！
+- post page好丑
