@@ -1,12 +1,12 @@
 .container.post {
-  margin: 15px;
+  margin: 25px;
 }
 
 .carousel.slide {
   width: 650px;
   height: 650px;
   position: absolute;
-  left: 300px;
+  left: 280px;
   top: 15px;
 }
 
