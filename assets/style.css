@@ -6,6 +6,6 @@ section p {
   margin: 5px;
 }
 
-.carousel-inner .carousel-item img {
-    position:relative;
+.carousel-inner > .carousel-item > img {
+    margin: 0 auto;
 }
