@@ -10,8 +10,8 @@ section p {
   width: 650px;
   height: 650px;
   position: absolute;
-  left: 150px;
-  top: 50px
+  left: 200px;
+  top: 25px;
 }
 
 .carousel-inner > .carousel-item > img {
