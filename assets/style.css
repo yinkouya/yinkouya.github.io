@@ -1,16 +1,12 @@
-.row {
-  margin: 5px;
-}
-
-section p {
-  margin: 5px;
+.container.post {
+  margin: 10px;
 }
 
 .carousel.slide {
   width: 650px;
   height: 650px;
   position: absolute;
-  left: 250px;
+  left: 300px;
   top: 15px;
 }
 
