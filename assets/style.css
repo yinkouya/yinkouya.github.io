@@ -7,9 +7,9 @@ section p {
 }
 
 .carousel.slide {
-  position: relative;
-  width: 700px;
-  height: 700px;
+  position: absolute;
+  width: 650px;
+  height: 650px;
 }
 
 .carousel-inner > .carousel-item > img {
