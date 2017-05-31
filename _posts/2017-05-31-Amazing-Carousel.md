@@ -21,4 +21,6 @@ This blog is so ugly right now, I'm going to fix it up a little bit later today.
 - carousel居中， post靠两边
 - footer跟post叠在一起了
 - carousel的controller点击无法next!大事件！
+- carousel跟p的top margin到底是怎么回事儿？
 - post page好丑
+
