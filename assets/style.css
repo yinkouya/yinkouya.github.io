@@ -6,8 +6,14 @@ section p {
   margin: 5px;
 }
 
+.carousel.slide {
+  position: relative;
+  width: 700px;
+  height: 700px;
+}
+
 .carousel-inner > .carousel-item > img {
-    margin: 0 auto;
-    width: 600px;
-    height: 600px;
+  margin: 0 auto;
+  width: 600px;
+  height: 600px;
 }
