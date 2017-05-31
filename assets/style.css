@@ -9,9 +9,9 @@ section p {
 .carousel.slide {
   width: 650px;
   height: 650px;
-  position:absolute;
-  left:100px;
-  top:150px
+  position: absolute;
+  left: 150px;
+  top: 50px
 }
 
 .carousel-inner > .carousel-item > img {
