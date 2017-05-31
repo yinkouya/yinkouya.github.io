@@ -7,7 +7,6 @@ section p {
 }
 
 .carousel.slide {
-  position: absolute;
   width: 650px;
   height: 650px;
 }
