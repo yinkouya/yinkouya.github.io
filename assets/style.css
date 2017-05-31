@@ -4,5 +4,10 @@
 
 section p {
   margin: 5px;
+}
 
+.carousel-inner .carousel-item img {
+    position:relative;
+    top:50%;
+    transform: translateY(-50%);
 }
