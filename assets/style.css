@@ -8,6 +8,4 @@ section p {
 
 .carousel-inner .carousel-item img {
     position:relative;
-    top:50%;
-    transform: translateY(-50%);
 }
