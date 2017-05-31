@@ -2,6 +2,8 @@
 layout: post
 title: Je Regrete
 categories: Mundane
+tag:
+- Mundane
 ---
 
 ### If I had known that Hexo had so many templates, I would chose it immediately.
