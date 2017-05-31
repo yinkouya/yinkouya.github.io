@@ -9,4 +9,5 @@ section p {
 .carousel-inner > .carousel-item > img {
     margin: 0 auto;
     width: 600px;
+    height: 600px;
 }
