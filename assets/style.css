@@ -20,6 +20,6 @@ img {
 }
 
 .slick-prev:before, .slick-next:before { 
-    color: blue;
+    color: yellow;
 }
 
