@@ -11,14 +11,14 @@ html, body {
 }
 
 ul.post {
-  padding-right: 0;
+  display: flex;
 }
 
 .carousel.slide {
   width: 650px;
   height: 650px;
   position: absolute;
-  left: 260px;
+  left: 250px;
   top: 10px;
 }
 
