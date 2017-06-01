@@ -14,16 +14,3 @@ ul.post li{
   padding: 0;
 }
 
-.carousel.slide {
-  width: 650px;
-  height: 650px;
-  position: absolute;
-  left: 240px;
-  top: 10px;
-}
-
-.carousel-inner > .carousel-item > img {
-  margin: 0 auto;
-  width: 600px;
-  height: 600px;
-}
