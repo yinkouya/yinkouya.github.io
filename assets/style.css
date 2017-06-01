@@ -3,11 +3,7 @@
 }
 
 .container.post ul {
-  padding: 0;
-}
-
-.container.post ul li {
-  list-style: none;
+  padding: 0 20px;
 }
 
 .carousel.slide {
