@@ -6,6 +6,10 @@
   padding: 0;
 }
 
+.container.post ul li {
+  list-style: none;
+}
+
 .carousel.slide {
   width: 650px;
   height: 650px;
