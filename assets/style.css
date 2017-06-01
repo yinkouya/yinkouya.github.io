@@ -14,8 +14,7 @@ ul.post li{
   padding: 0;
 }
 
-.demo .img-responsive {
-  width：500px;
-  height: 500px;
+.demo {
+ float: center;
 }
 
