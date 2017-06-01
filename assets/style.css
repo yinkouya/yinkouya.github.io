@@ -2,8 +2,8 @@
   margin: 30px;
 }
 
-.container.post ul {
-  padding: 0 20px;
+ul.post {
+  padding-right: 0;
 }
 
 .carousel.slide {
