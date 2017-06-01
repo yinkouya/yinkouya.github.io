@@ -10,15 +10,15 @@ html, body {
   margin: 30px;
 }
 
-ul.post {
-  display: flex;
+ul.post li{
+  padding: 0;
 }
 
 .carousel.slide {
   width: 650px;
   height: 650px;
   position: absolute;
-  left: 250px;
+  left: 240px;
   top: 10px;
 }
 
@@ -26,20 +26,4 @@ ul.post {
   margin: 0 auto;
   width: 600px;
   height: 600px;
-}
-
-footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-
-.wrapper {
-    min-height: 100%;
-    height: auto !important;
-    height: 100%;
-    margin: 0 auto -142px; /* the bottom margin is the negative value of the footer's height */
-}
-.footer .push {
-    height: 142px; /* .push must be the same height as .footer */
 }
