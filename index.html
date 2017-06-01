@@ -2,57 +2,27 @@
 layout: default
 ---
 <div class="container">
-  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-    <ol class="carousel-indicators">
-      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    </ol>
-    <div class="carousel-inner" role="listbox">
-      <div class="carousel-item active">
-        <img class="d-block img-fluid" src="img/yellowpillow01.jpg" alt="First slide">
-          <div class="carousel-caption d-none d-md-block">
-            <h3>This is a yellow pillow</h3>
-            <p>Right now I adore yellow, this pillow saves me</p>
-          </div>
-      </div>
-      <div class="carousel-item">
-        <img class="d-block img-fluid" src="img/yellowpillow02.jpg" alt="Second slide">
-          <div class="carousel-caption d-none d-md-block">
-            <h3>This is Isabelle Huppert</h3>
-            <p>I came to know her in 2016, I saw 5 of her films, and I loved every one.</p>
-          </div>
-      </div>
-      <div class="carousel-item">
-        <img class="d-block img-fluid" src="img/yellowpillow03.jpg" alt="Third slide">
-          <div class="carousel-caption d-none d-md-block">
-            <h3>This is a cat</h3>
-            <p>You won't see this very often, but this is a cute picture</p>
-          </div>
-      </div>
+    <div class="carousel">
+        <div>
+            <img class="d-block img-fluid" src="img/yellowpillow01.jpg" alt="First slide">
+        </div>
+        <div>
+            <img class="d-block img-fluid" src="img/yellowpillow02.jpg" alt="Second slide">
+        </div>
+        <div>
+            <img class="d-block img-fluid" src="img/yellowpillow03.jpg" alt="Third slide">
+        </div>
+        <div>
+            <img class="d-block img-fluid" src="img/yellow_dots.jpg" alt="Fourth slide">
+        </div>
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
 </div>
 <div class="container post">
   <ul class="post">
     {% for post in site.posts %}
     <li>{{ post.date | date: "%A %B %-d, %Y" }}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endfor %}
   </ul>
 </div>
-
-
-
-
-
-
