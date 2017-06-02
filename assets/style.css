@@ -19,11 +19,19 @@ img {
   margin: auto;
 }
 
-.slick-prev:before, .slick-next:before { 
-    color: yellow;
-}
-
-.slick-dots li button {
+/* Arrows */
+.slick-prev,
+.slick-next
+{    
     color: transparent;
     background: yellow;
 }
+
+.slick-prev:before,
+.slick-next:before
+{
+    opacity: .75;
+    color: white;
+}
+
+
