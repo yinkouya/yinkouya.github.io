@@ -22,7 +22,7 @@ img {
 
 .slick-prev:before,
 .slick-next:before {
-  color: yellow;
+  color: yellow !important;
 }
 
 
