@@ -8,6 +8,8 @@ $(document).ready(function(){
     dots: true,
     speed: 500,
     fade: true,
-    cssEase: 'linear'
+    cssEase: 'linear',
+    prevArrow: $('.prev'),
+    nextArrow: $('.next'),
   });
 });
