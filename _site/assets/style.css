@@ -1,8 +1,31 @@
-.row {
-  margin: 5px;
+* {
+  margin: 0;
 }
 
-section p {
-  margin: 5px;
+html, body {
+  height: 100%;
 
+}
+
+.container.post {
+  margin: 30px;
+}
+
+ul.post li{
+  padding: 0;
+}
+
+img { 
+  width: 50%;
+  margin: auto;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-family: initial!important;
+  color: yellow;
+}
+
+.slick-arrow:before {
+  font-family:initial!important;
 }

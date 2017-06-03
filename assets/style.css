@@ -1,9 +1,9 @@
 * {
-    margin: 0;
+  margin: 0;
 }
 
 html, body {
-    height: 100%;
+  height: 100%;
 
 }
 
@@ -22,5 +22,10 @@ img {
 
 .slick-prev:before,
 .slick-next:before {
-    color: yellow;
+  font-family: initial!important;
+  color: yellow;
+}
+
+.slick-arrow:before {
+  font-family:initial!important;
 }
