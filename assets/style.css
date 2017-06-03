@@ -22,10 +22,6 @@ img {
 
 .slick-prev:before,
 .slick-next:before {
-  font-family: initial!important;
   color: yellow;
 }
 
-.slick-arrow:before {
-  font-family:initial!important;
-}
