@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazing Carousel
-categories: Jekyll, Markdown
+categories: Jekyll Markdown
 tags:
 - Jekyll
 - Markdown

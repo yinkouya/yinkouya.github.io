@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Problematic Slick
-categories: Jekyll, Markdown
+categories: Jekyll Markdown
 tags:
 - Jekyll
 - Markdown
