@@ -7,6 +7,10 @@ html, body {
 
 }
 
+footer {
+  text-align: center;
+}
+
 .container.post {
   margin: 30px;
 }
