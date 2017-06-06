@@ -2,39 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4525f19-2a58-47a5-97a4-a7c00c8dbdf5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/slick.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/slick.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/slick-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/slick.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/slick.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/01.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/02.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/03.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/Raw_egg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/sateen_yellow_pillows.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/yellow01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/yellow02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/yellow03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/yellow_blue_stripes.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/yellow_dots.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/yellow_pillow_with_tie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/yellow_wallpaper.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/yellowpillow01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/yellowpillow02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/yellowpillow03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/jekyll,/markdown/2017/05/31/Amazing-Carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/jekyll,/markdown/2017/06/03/Problematic-Slick.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/jekyll/2017/05/26/Hello-World.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/mundane/2017/05/28/Dragon-Boat.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/mundane/2017/05/29/Je-Regrette.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/style.css" afterPath="$PROJECT_DIR$/assets/style.css" />
     </list>
     <ignored path="yinkouya.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5">
-              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.13412817">
+              <caret line="19" column="125" selection-start-line="19" selection-start-column="125" selection-end-line="19" selection-end-column="125" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -77,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21582733">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding />
             </state>
@@ -108,8 +78,9 @@
         <option value="$PROJECT_DIR$/_posts/2017-06-04-Madame-Bovary.md" />
         <option value="$PROJECT_DIR$/_posts/2017-05-31-Amazing-Carousel.md" />
         <option value="$PROJECT_DIR$/_posts/2017-06-03-Problematic-Slick.md" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/assets/style.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -168,48 +139,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="yinkouya.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yinkouya.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yinkouya.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yinkouya.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yinkouya.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yinkouya.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yinkouya.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -389,6 +318,9 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.gitignore" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -577,21 +509,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/assets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/style.css">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21582733">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13412817">
+          <caret line="19" column="125" selection-start-line="19" selection-start-column="125" selection-end-line="19" selection-end-column="125" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
