@@ -36,6 +36,6 @@ a.navbar-brand {
   padding: 1px 0;
 }
 
-.collapse.navbar-collapse {
-  padding: 1px 0;
+a.navbar-brnad > img {
+  width: initial;
 }
