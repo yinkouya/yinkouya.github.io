@@ -19,7 +19,7 @@ ul.post li{
   padding: 0;
 }
 
-div img {
+div.tocarousel>img {
   width: 50%;
   margin: auto;
 }
@@ -33,5 +33,9 @@ a.navbar-brand {
   height: 48;
   width: 64;
   display: inline-block;
+  padding: 1px 0;
+}
+
+.collapse.navbar-collapse {
   padding: 1px 0;
 }
