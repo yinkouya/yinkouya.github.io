@@ -1,0 +1,32 @@
+---
+title: Code
+---
+
+<h3 id="programming">Code</h3>
+<div class="archive-main">
+  {% for post in site.posts %}
+    {% if post.type == "programming" %}
+    <div class="archive-item">
+      <div class="archive-date">{{post.date | date:"%B %d, %Y" }}</div>
+      <div class="archive-title"><a href="{{ post.permalink }}">{{ post.title }}</a></div>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<h3 id="lifestyle">Lifestyle</h3>
+<div class="archive-main">
+  {% for post in site.posts %}
+    {% if post.type == "lifestyle" %}
+    <div class="archive-item">
+      <div class="archive-date">{{post.date | date:"%B %d, %Y" }}</div>
+      <div class="archive-title"><a href="{{ post.permalink }}">{{ post.title }}</a></div>
+    </div>
+    {% endif %}
+  {% endfor %}
+  <p class="archive-old">
+    <a href="/translation_posts.html">Translations</a> |
+    <a href="/legacy_posts.html">Legacy Posts</a> |
+    <a href="http://crispgm.iteye.com/" target="_blank">Oldschool Blog</a>
+  </p>
+</div>
