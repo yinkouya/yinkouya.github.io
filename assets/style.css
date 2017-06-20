@@ -28,7 +28,7 @@ ul.post li{
     width: 1000px;
     height: 666px;
     overflow: hidden;
-    padding: 5px;
+    margin: 0 auto;
     border: 1px solid #CCC;
     text-align: center;
 }
