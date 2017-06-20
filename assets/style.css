@@ -20,5 +20,10 @@ ul.post li{
 }
 
 .carousel-inner > .carousel-item > img {
-    margin: 0 auto;
+  margin: 0 auto;
+}
+
+.navbar-brand > imag {
+  height: 30px;
+  width: 30px;
 }
