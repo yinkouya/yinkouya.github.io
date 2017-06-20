@@ -19,17 +19,6 @@ ul.post li{
   padding: 0;
 }
 
-div.tocarousel>img {
-  display: block;
-  margin: auto;
-  width: 50%;
-}
-
-.slick-prev:before,
-.slick-next:before {
-  color: yellow;
-}
-
-a.navbar-brand > img {
-  height: 50px;
+.carousel-inner > .carousel-item > img {
+    margin: 0 auto;
 }
