@@ -19,12 +19,21 @@ ul.post li{
   padding: 0;
 }
 
-.carousel-inner > .carousel-item > img {
-  margin: 0 auto;
-  height: 666;
-}
-
 .navbar-brand > img {
   height: 30px;
   width: 30px;
+}
+
+.wrap{
+    width: 1000px;
+    height: 666px;
+    overflow: hidden;
+    padding: 5px;
+    border: 1px solid #CCC;
+    text-align: center;
+}
+
+.carousel-inner > .carousel-item > img {
+  margin: 0 auto;
+  height: 666;
 }
