@@ -28,8 +28,6 @@ ul.post li{
     height: 666px;
     overflow: hidden;
     margin: 0 auto;
-    border: 1px solid #CCC;
-    text-align: center;
 }
 
 .carousel-inner > .carousel-item > img {
