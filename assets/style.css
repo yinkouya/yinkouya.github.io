@@ -31,7 +31,6 @@ ul.post li{
 }
 
 .carousel-inner > .carousel-item > img {
-  display: block;
   margin: auto;
   height: 500;
 }
