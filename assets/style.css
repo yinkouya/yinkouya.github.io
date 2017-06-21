@@ -25,13 +25,12 @@ ul.post li{
 }
 
 .wrap{
-    height: 500px;
-    width: 800px;
+    height: 600px;
+    width: 1170px;
     overflow: hidden;
     margin: 0 auto;
 }
 
 .carousel-inner > .carousel-item > img {
-  margin: auto;
-  height: 75%;
+  margin: 0 auto;
 }
