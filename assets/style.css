@@ -20,14 +20,15 @@ ul.post li{
 }
 
 .navbar-brand > img {
-  height: 30;
-  width: 30;
+  height: 30px;
+  width: 30px;
 }
+
 
 .carousel-inner > .carousel-item > img {
   margin: 0 auto;
 }
 
-.wrap {
-  margin-top: 5;
+nav {
+  margin-bottom：-10%;
 }
