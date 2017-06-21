@@ -12,6 +12,7 @@ html, body {
 }
 
 nav {
+  position:relative;
   margin-bottom：10px;
 }
 
