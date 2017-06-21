@@ -11,6 +11,10 @@ html, body {
   margin: 0 auto;
 }
 
+nav {
+  display: block;
+}
+
 .container {
   position: relative;
   margin-bottom：10px;
