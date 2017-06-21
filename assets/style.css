@@ -11,9 +11,9 @@ html, body {
   margin: 0 auto;
 }
 
-nav {
+.wrap {
   position: relative;
-  margin-bottom：10px;
+  margin-top：10px;
 }
 
 footer {
