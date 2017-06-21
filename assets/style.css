@@ -17,6 +17,10 @@ nav {
   margin-bottom：10px;
 }
 
+img.about {
+  height: 50%;
+}
+
 footer {
   text-align: center;
 }
