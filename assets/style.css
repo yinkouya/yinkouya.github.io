@@ -1,22 +1,5 @@
-* {
-  margin: 0;
-}
-
 html, body {
   height: 100%;
-
-}
-
-footer {
-  text-align: center;
-}
-
-.container.post {
-  margin: 30;
-}
-
-ul.post li{
-  padding: 0;
 }
 
 .navbar-brand > img {
@@ -24,11 +7,14 @@ ul.post li{
   width: 30px;
 }
 
-
 .carousel-inner > .carousel-item > img {
   margin: 0 auto;
 }
 
 nav {
   margin-bottom：10px;
+}
+
+footer {
+  text-align: center;
 }
