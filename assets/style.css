@@ -24,13 +24,6 @@ ul.post li{
   width: 30px;
 }
 
-.wrap{
-    height: 600px;
-    width: 1170px;
-    overflow: hidden;
-    margin: 0 auto;
-}
-
 .carousel-inner > .carousel-item > img {
   margin: 0 auto;
 }
