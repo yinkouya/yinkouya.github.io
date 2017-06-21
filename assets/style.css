@@ -3,17 +3,17 @@ html, body {
 }
 
 .navbar-brand > img {
-  height: 30px;
-  width: 30px;
+  height: 35px;
+  width: 35px;
 }
 
 .carousel-inner > .carousel-item > img {
   margin: 0 auto;
 }
 
-.wrap {
+.nav-container {
   position: relative;
-  margin-top：10px;
+  margin-bottom：10px;
 }
 
 footer {
