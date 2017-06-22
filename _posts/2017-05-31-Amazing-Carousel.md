@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Amazing Carousel
-categories: Jekyll Markdown
-tags:
-- Jekyll
-- Markdown
+categories: code
+
 ---
 
 ### I have always wanted a carousel 
