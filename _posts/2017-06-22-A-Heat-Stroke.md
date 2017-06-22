@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Sky is beautiful today
+title: A Heat Stroke
 categories: life
 tags:
 - life
 ---
 
-# I had a head stroke today, almost fainted in the elevator
+# I had a heat stroke today, almost fainted in the elevator
 
 ## Thing are fine before I enter the elevator
 It took me 30 minutes from my house to workplace, by foot. I entered the elevator with a couple of others, soon I sensed something wrong: my head was spinning while the elevator went up.
