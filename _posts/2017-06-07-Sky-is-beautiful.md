@@ -2,8 +2,7 @@
 layout: post
 title: Sky is beautiful today
 categories: life
-tags:
-- life
+
 ---
 
 ### What a clear sky
