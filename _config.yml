@@ -1,10 +1,6 @@
 baseurl: /yinkouya.github.io
 
-# Site settings
-title: kouya
-author: kouya
-description: "building a personal blog using Jekyll on GitHub"
-url: "https://yinkouya.github.io/"
+permalink: /blog/:title
 
 gems:
   - jemoji
