@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Hello Jekyll
-categories: Jekyll
-tags:
-- Jekyll
+categories: code
+
 ---
 
 #### Happy Dragon Boat Festival :kissing_heart:
