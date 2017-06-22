@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Madame Bovary
-categories: Movie
-tags:
-- Movie
+categories: life
+
 ---
 
 ### I watched 3 movies titled Madame Bovary, nonstop
