@@ -1,7 +1,5 @@
 baseurl: /yinkouya.github.io
 
-permalink: /blog/:title
-
 gems:
   - jemoji
 
