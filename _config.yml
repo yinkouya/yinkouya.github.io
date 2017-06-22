@@ -1,5 +1,3 @@
-baseurl: /yinkouya.github.io
-
 gems:
   - jemoji
 
