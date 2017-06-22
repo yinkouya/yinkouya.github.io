@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Problematic Slick
-categories: Jekyll Markdown
-tags:
-- Jekyll
-- Markdown
+categories: code
+
 ---
 
 ### I get what I want but I don't know why
