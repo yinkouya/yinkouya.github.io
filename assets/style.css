@@ -27,3 +27,7 @@ img.about {
 footer {
   text-align: center;
 }
+
+.post-preview p {
+  display: inline;
+}
