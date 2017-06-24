@@ -7,3 +7,7 @@ gems: ["emoji_for_jekyll"]
 encoding: "utf-8"
 highlighter: rouge
 future: true
+
+url: "http://yinkouya.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+
