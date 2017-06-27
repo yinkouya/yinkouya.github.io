@@ -26,3 +26,10 @@ img.footer {
 .post-preview p {
   display: inline;
 }
+
+.post-index {
+  margin: 0 auto 4em auto;
+  position: relative;
+  padding-top: 4em;
+  font-size: 0.9em;
+}
