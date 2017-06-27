@@ -44,3 +44,10 @@ img.footer {
   color: $gray;
   font-size: 1em;
 }
+
+.post-index-item {
+  display: block;
+  overflow: hidden;
+  padding: 6px 20px;
+  border-top: solid 1px $hairline;
+}
