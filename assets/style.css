@@ -39,3 +39,8 @@ img.footer {
   max-width: $page-width;
   margin: 0 auto;
 }
+
+.post-ondex .container h3 {
+  color: $gray;
+  font-size: 1em;
+}
