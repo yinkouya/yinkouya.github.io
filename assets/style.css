@@ -6,16 +6,7 @@ img.brand {
   margin: 0 auto;
 }
 
-.nav-container span {
-  display: block;
-}
-
-.nav-container a {
-  display: block;
-}
-
 .nav-container {
-  position: relative;
   margin-bottom：10px;
 }
 
