@@ -28,6 +28,7 @@ footer {
 
 img.footer {
   width: 5px;
+  text-align: center;
 }
 
 .post-preview p {
