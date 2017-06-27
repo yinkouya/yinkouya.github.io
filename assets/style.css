@@ -26,6 +26,10 @@ footer {
   text-align: center;
 }
 
+img.footer {
+  width: 70%;
+}
+
 .post-preview p {
   display: inline;
 }
