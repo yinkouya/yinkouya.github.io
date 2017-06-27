@@ -57,3 +57,21 @@ img.footer {
   width: 100px;
   font-size: 0.8em;
 }
+
+.date, .tag {
+  margin-top: 0.2em;
+}
+
+.date, .article {
+  float: left;  
+}
+
+.tag {
+  float: right;
+}
+
+.article {
+  color: $text;
+  margin-right: 3px;
+  transition: all 100ms linear;
+}
