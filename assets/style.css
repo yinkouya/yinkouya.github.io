@@ -51,3 +51,9 @@ img.footer {
   padding: 6px 20px;
   border-top: solid 1px $hairline;
 }
+
+.date {
+  display: block;
+  width: 100px;
+  font-size: 0.8em;
+}
