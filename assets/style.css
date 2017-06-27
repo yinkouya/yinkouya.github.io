@@ -1,5 +1,5 @@
 img.brand {
-  width: 50%;
+  width: 35px;
 }
 .carousel-inner > .carousel-item > img {
   margin: 0 auto;
@@ -27,7 +27,7 @@ footer {
 }
 
 img.footer {
-  width: 70%;
+  width: 25px;
 }
 
 .post-preview p {
