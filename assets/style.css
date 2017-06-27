@@ -9,6 +9,8 @@ img.brand {
 .nav-container {
   margin: 0em auto 2em auto;
   position: relative;
+  border-bottom-style: solid
+  border-width： 5px;
 }
 
 img.about {
