@@ -9,7 +9,6 @@ img.brand {
 .nav-container {
   margin: 0em auto 2em auto;
   position: relative;
-  padding-top: 2em;
 }
 
 img.about {
@@ -23,10 +22,6 @@ footer {
 img.footer {
   width: 20px;
   text-align: center;
-}
-
-.post-preview p {
-  display: inline;
 }
 
 .post-index {
