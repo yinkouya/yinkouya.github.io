@@ -29,7 +29,7 @@
                         <a class="nav-link" href="{{'category/life/index.html' | absolute_url }}">Life</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="{{'category/about.html'| absolute_url}}">About</a>
+                        <a class="nav-link" href="{{ 'about.html'| absolute_url }}">About</a>
                       </li>
                     </ul>
                     <form class="form-inline my-2 my-lg-0">
@@ -43,11 +43,11 @@
           {{ content }}
         </div>
         <footer class="footer">
-	      <p class="copyright">
-	    	<small>
-	            <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/cn/" target="_blank" title="许可协议">©</a> 2017 May &nbsp;&nbsp;&nbsp;&nbsp;<a href="README.md">{{site.author.name}}</a>
-	        </small>
-	      </p>
+          <p class="copyright">
+            &copy;
+            <span itemprop="copyrightYear">May 2017</span>
+            <span itemprop="name">&nbsp;<a href="https://github.com/yinkouya"><img src="/img/github.jpg" alt="github"></a> </span>
+          </p>
         </footer>
       </div>
     
