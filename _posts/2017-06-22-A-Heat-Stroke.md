@@ -2,8 +2,6 @@
 layout: post
 title: A Heat Stroke
 categories: life
-tags:
-- life
 ---
 
 # I had a heat stroke today, almost fainted in the elevator
