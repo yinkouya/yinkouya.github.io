@@ -1,5 +1,5 @@
 img.brand {
-  width: 45px;
+  width: 35px;
 }
 .carousel-inner > .carousel-item > img {
   margin: 0 auto;
@@ -19,7 +19,7 @@ img.brand {
 }
 
 img.about {
-  width: 70%;
+  width: 50%;
 }
 
 footer {
@@ -27,7 +27,7 @@ footer {
 }
 
 img.footer {
-  width: 5px;
+  width: 25px;
   text-align: center;
 }
 
