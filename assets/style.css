@@ -10,7 +10,7 @@ img.brand {
   margin: 0em auto 2em auto;
   position: relative;
   border-style: none none solid none;
-  border-bottom-width： 0.012em;
+  border-bottom-width： thin;
   border-color: #000000;
 }
 
