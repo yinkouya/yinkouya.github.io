@@ -52,6 +52,11 @@ img.footer {
   border-top: solid 1px $hairline;
 }
 
+a:link    {color:gray;}
+a:visited {color:black;}
+a:hover   {color:red;}
+a:active  {color:yellow;}
+
 .date {
   display: block;
   width: 100px;
