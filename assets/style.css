@@ -11,6 +11,7 @@ img.brand {
   position: relative;
   border-bottom-style: solid
   border-width： 5px;
+  border-color: #000000;
 }
 
 img.about {
