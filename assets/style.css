@@ -7,7 +7,9 @@ img.brand {
 }
 
 .nav-container {
-  margin-bottom：10px;
+  margin: 0em auto 2em auto;
+  position: relative;
+  padding-top: 2em;
 }
 
 img.about {
@@ -79,10 +81,4 @@ a:active  {color:yellow;}
   color: $text;
   margin-right: 3px;
   transition: all 100ms linear;
-}
-
-.nav-container {
-  margin: 0em auto 2em auto;
-  position: relative;
-  padding-top: 2em;
 }
