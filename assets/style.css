@@ -1,6 +1,5 @@
-a.navbar-brand > img {
-  width: 35px;
-  height: 35px;
+img.brand {
+  width: 50%;
 }
 .carousel-inner > .carousel-item > img {
   margin: 0 auto;
@@ -20,7 +19,7 @@ a.navbar-brand > img {
 }
 
 img.about {
-  height: 50%;
+  width: 50%;
 }
 
 footer {
