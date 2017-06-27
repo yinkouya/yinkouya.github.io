@@ -9,8 +9,8 @@ img.brand {
 .nav-container {
   margin: 0em auto 2em auto;
   position: relative;
-  border-bottom-style: solid
-  border-width： 5px;
+  border-style: none none solid none;
+  border-bottom-width： 1px;
   border-color: #000000;
 }
 
