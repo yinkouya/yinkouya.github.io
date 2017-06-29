@@ -3,11 +3,7 @@
 }
 
 img.brand {
-  width: 50px;
-}
-
-.carousel-inner > .carousel-item > img {
-  margin: 0 auto;
+  width: 60px;
 }
 
 .nav-container {
@@ -15,7 +11,11 @@ img.brand {
   position: relative;
   border-style: none none solid none;
   border-bottom-width： thin;
-  border-bottom-color: #8B5A00;
+  border-bottom-color: #553C00;
+}
+
+.wrap {
+  margin: 0 auto 1em auto;
 }
 
 img.about {
