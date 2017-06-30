@@ -1,9 +1,10 @@
 * {
   font-family: 'Lato', sans-serif;
+  font-weight: 300
 }
 
 img.brand {
-  width: 60px;
+  width: 70px;
 }
 
 .nav-container {
@@ -16,6 +17,7 @@ img.brand {
 
 .navbar-text {
   font-size: 30px;
+  font-weight: 100;
 }
 
 .wrap {
