@@ -55,8 +55,8 @@ img.footer {
 .post-index {
   margin: 0 auto 4em auto;
   position: relative;
-  padding-top: 4em;
-  font-size: 0.9em;
+  padding-top: 3em;
+  font-size: 1em;
 }
 
 .post-index .container {
@@ -73,8 +73,7 @@ img.footer {
 .post-index-item {
   display: block;
   overflow: hidden;
-  padding: 6px 20px;
-  border-top: solid 1px $hairline;
+  padding: 3px 30px;
 }
 
 a:link    {color:gray;}
