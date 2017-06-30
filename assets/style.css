@@ -14,6 +14,10 @@ img.brand {
   border-bottom-color: #553C00;
 }
 
+.nav-text {
+  font-size: 20px;
+}
+
 .wrap {
   margin: 0 auto 1em auto;
 }
