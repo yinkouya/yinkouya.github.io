@@ -1,6 +1,6 @@
 * {
   font-family: 'Lato', sans-serif;
-  font-weight: 400
+  font-weight: 400;
 }
 
 img.brand {
@@ -42,7 +42,7 @@ footer {
 }
 
 img.footer {
-  width: 18px;
+  width: 15px;
   text-align: center;
 }
 
