@@ -4,14 +4,17 @@ layout: default
 <div class="main">
 {% if site.posts %}
 <div class='post-index' id='toc'>
-  <div class='container'>
-    <h3 class='bottom-space-1'>As time goes by:</h3>
+  <h3 class='bottom-space-1'>As time goes by:</h3>
+  <div class='card'>
     {% for post in site.categories[page.category] %}
-    <a class='post-index-item' href="{{ post.url | prepend: site.baseurl }}">
-        <span class='date'>{{ post.date | date_to_string }}</span>
-        <span class='article'>{{ post.title }}</span>
-        <strong class='tag'>{{ post.tags | first }}</strong>
-      </a>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">
+        <a class='post-index-item' href="{{ post.url | prepend: site.baseurl }}">
+          <span class='date'>{{ post.date | date_to_string }}</span>
+          <span class='article'>{{ post.title }}</span>
+        </a>
+      </li>
+    </ul>
     {% endfor %}
   </div>
 </div>
