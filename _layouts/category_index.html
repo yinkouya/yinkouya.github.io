@@ -6,7 +6,7 @@ layout: default
 <div class='post-index' id='toc'>
   <h3 class='bottom-space-1'>As time goes by:</h3>
     {% for post in site.categories[page.category] %}
-    <ul class="list-group list-group-flush">
+    <ul class="list-group">
       <li class="list-group-item">
         <a class='post-index-item' href="{{ post.url | prepend: site.baseurl }}">
           <span class='date'>{{ post.date | date_to_string }}</span>
