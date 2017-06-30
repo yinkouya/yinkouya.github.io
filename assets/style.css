@@ -15,9 +15,8 @@ img.brand {
   border-bottom-color: #553C00;
 }
 
-.navbar-nav.mr-auto {
+.nav-item {
   font-size: 20px;
-  margin: auto auto auto 5px;
 }
 
 .navbar-text {
