@@ -41,6 +41,10 @@ footer {
   font-size: 12px;
 }
 
+p.copyright > span {
+  margin: auto 1px;
+}
+
 img.footer {
   width: 20px;
   text-align: center;
