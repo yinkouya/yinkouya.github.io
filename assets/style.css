@@ -16,6 +16,7 @@ img.brand {
 }
 
 .navbar-nav mr-auto {
+  font-size: 15px;
   margin: auto auto auto 5px;
 }
 
