@@ -52,45 +52,6 @@ img.footer {
   text-align: center;
 }
 
-.post-index {
-  margin: 0 auto 4em auto;
-  position: relative;
-  padding-top: 3em;
-  font-size: 1em;
-}
-
-.post-index .container {
-  overflow: hidden;
-  max-width: $page-width;
-  margin: 0 auto;
-}
-
-.post-ondex .container h3 {
-  color: $gray;
-  font-size: 1em;
-}
-
-.post-index-item {
-  display: block;
-  overflow: hidden;
-  padding: 3px 30px;
-}
-
-a:link    {color:gray;}
-a:visited {color:black;}
-a:hover   {color:red;}
-a:active  {color:yellow;}
-
-.date {
-  display: block;
-  width: 100px;
-  font-size: 0.8em;
-}
-
-.date {
-  margin-top: 0.2em;
-}
-
-.date, .article {
-  float: left;  
+.list-group {
+  margin: o auto;
 }
