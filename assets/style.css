@@ -63,7 +63,7 @@ img.footer {
 }
 
 .row {
-  width: 1000px;
+  width: 700px;
   height: 600px;
   margin: 0 auto;
 }
@@ -74,5 +74,6 @@ img.footer {
 }
 
 .card-img-bottom {
-  width: 80%
+  max-width:600px;
+  height:auto;
 }
