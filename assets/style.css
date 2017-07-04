@@ -63,17 +63,16 @@ img.footer {
 }
 
 .row {
-  width: 700px;
-  height: 600px;
+  width: 1000px;
   margin: 0 auto;
 }
 
 .card-img-top {
-  max-width:240px;
+  max-width:100%;
   height:auto;
 }
 
 .card-img-bottom {
-  max-width:600px;
+  max-width:100%;
   height:auto;
 }
