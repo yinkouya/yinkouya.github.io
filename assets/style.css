@@ -61,3 +61,14 @@ img.footer {
   width: 600px;
   margin: 0 auto;
 }
+
+
+.card-img-top {
+  max-width:240px;
+  height:auto;
+}
+
+card-img-bottom {
+  max-width: 600px;
+  height: auto;
+}
