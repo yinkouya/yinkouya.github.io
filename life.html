@@ -5,14 +5,14 @@ layout: default
 <div class="row">
   <div class="col-sm-3">
     <div class="card h-50">
-      <img class="card-img-top" src="img/topleft.jpg" alt="Card image cap">
+      <img class="card-img-top img-fluid" src="img/topleft.jpg" alt="Card image cap">
       <div class="card-block">
         <p class="card-text"><small class="text-muted">June 29, 2017</small></p>
         <h4 class="card-title">HTML和CSS入门-Udacity-左上</h4>
       </div>
     </div>
     <div class="card h-50">
-      <img class="card-img-top" src="img/bottomleft.jpg" alt="Card image cap">
+      <img class="card-img-top img-fluid" src="img/bottomleft.jpg" alt="Card image cap">
       <div class="card-block">
         <p class="card-text"><small class="text-muted">June 29, 2017</small></p>
         <h4 class="card-title">HTML和CSS入门-Udacity-左下</h4>
@@ -26,20 +26,20 @@ layout: default
         <p class="card-text"><small class="text-muted">June 29, 2017</small></p>
         <h4 class="card-title">HTML和CSS入门-Udacity-中</h4>
       </div>
-      <img class="card-img-bottom" src="img/middle.jpg" alt="Card image cap">
+      <img class="card-img-bottom img-fluid" src="img/middle.jpg" alt="Card image cap">
     </div>
   </div>
 
   <div class="col-sm-3">
     <div class="card h-50">
-      <img class="card-img-top" src="img/topright.jpg" alt="Card image cap">
+      <img class="card-img-top img-fluid" src="img/topright.jpg" alt="Card image cap">
       <div class="card-block">
         <p class="card-text"><small class="text-muted">June 29, 2017</small></p>
         <h4 class="card-title">HTML和CSS入门-Udacity-右上</h4>
       </div>
     </div>
     <div class="card h-50">
-      <img class="card-img-top" src="img/bottomright.jpg" alt="Card image cap">
+      <img class="card-img-top img-fluid" src="img/bottomright.jpg" alt="Card image cap">
       <div class="card-block">
         <p class="card-text"><small class="text-muted">June 29, 2017</small></p>
         <h4 class="card-title">HTML和CSS入门-Udacity-右下</h4>
@@ -50,7 +50,7 @@ layout: default
 
 {% if site.posts %}
   <div class='container'>
-    <h3 class='bottom-space-1'>沉迷学习:</h3>
+    <h4>As time goes by</h4>
     {% for post in site.categories["life"] %}
     <a class='post-index-item' href="{{ post.url | prepend: site.baseurl }}">
       <span class='date'>{{ post.date | date_to_string }}</span>
