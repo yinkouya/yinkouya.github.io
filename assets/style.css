@@ -74,6 +74,5 @@ img.footer {
 }
 
 .card-img-bottom {
-  max-width: 600px;
-  height: auto;
+  width: 80%
 }
