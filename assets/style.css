@@ -76,3 +76,8 @@ img.footer {
 .life-item {
   display: block;
 }
+
+.row-about {
+  width: 800px;
+  margin: 0 auto;
+}
