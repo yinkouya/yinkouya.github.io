@@ -5,5 +5,5 @@ categories: code
 
 ---
 
-#### Happy Dragon Boat Festival :kissing_heart:
+#### Happy Dragon Boat Festival
 
