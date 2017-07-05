@@ -35,7 +35,9 @@ Placeholder images: http://lorempixel.com/
 
 [更多关于WebP的信息]( https://developers.google.com/speed/webp/?csw=1)
 
-[WebP浏览器支持]( http://caniuse.com/#feat=webp)
+[WebP浏览器支持 from caniuse]( http://caniuse.com/#feat=webp)
+
+"Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 **2.14 压缩、优化和自动化**
 
