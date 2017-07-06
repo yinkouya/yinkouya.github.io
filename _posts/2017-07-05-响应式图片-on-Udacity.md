@@ -55,3 +55,35 @@ WebP is a modern image format that provides superior lossless and lossy compress
 **2.17 & 18 图片压缩和练习**
 
 重要的链接，关于图片压缩& Page speed & 练习
+
+#### 第三节：标记图片
+
+Less pixels * better compression = less bytes
+
+3.4 CSS背景图片， 重要，多个有启发性的例子
+
+Unicode Set: https://unicode-table.com/en/
+
+更多关于meta tag charsets的信息：https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
+
+**Icon Fonts**
+
+Zocial: http://zocial.smcllns.com/
+
+Font Awesome: http://fontawesome.io/
+
+We Love Icon Fonts! : http://weloveiconfonts.com/
+
+Icon fonts on CSS-Tricks: https://css-tricks.com/examples/IconFont/
+
+
+**SVG优化工具**：http://petercollingridge.appspot.com/svg-optimiser
+
+
+**SVG例子：**
+Trajan的column SVG例子：https://upload.wikimedia.org/wikipedia/commons/6/6c/Trajans-Column-lower-animated.svg
+20个让你惊艳不已的SVG例子：http://www.creativebloq.com/design/examples-svg-7112785
+SVG动画示例：https://codepen.io/chrisgannon/
+
+
+
