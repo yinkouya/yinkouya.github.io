@@ -86,4 +86,7 @@ Trajan的column SVG例子：https://upload.wikimedia.org/wikipedia/commons/6/6c/
 SVG动画示例：https://codepen.io/chrisgannon/
 
 
+Pixel Density Display Listing：http://pixensity.com/
+
+The world's largest collection of pixel density (PPI) display data.
 
