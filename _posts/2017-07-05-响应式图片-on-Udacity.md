@@ -54,4 +54,4 @@ WebP is a modern image format that provides superior lossless and lossy compress
 
 **2.17 & 18 图片压缩和练习**
 
-重要的链接，关于图片压缩& Page speed.
+重要的链接，关于图片压缩& Page speed & 练习
