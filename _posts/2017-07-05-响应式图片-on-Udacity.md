@@ -11,7 +11,7 @@ categories: code
 
 #### 第一节：准备工作
 
-
+</br>
 使用 快捷键 Ctrl+Shift+I (Windows) 或 Cmd+Opt+I (Mac) 打开Chrome 开发者工具
 
 [Chrome 开发者工具概览](https://developers.google.com/web/tools/chrome-devtools/)
@@ -27,7 +27,7 @@ categories: code
 
 #### 第二节：单位，格式和环境
 
-
+</br>
 **Placeholder images**: http://lorempixel.com/  :Just put the custom url in your code like this:`<img src="http://lorempixel.com/400/200" />`
 
 从 Mozilla 开发者社区了解更多关于 **calc()** 的信息: https://developer.mozilla.org/en-US/docs/Web/CSS/calc
@@ -53,7 +53,7 @@ PageSpeedInsight: https://developers.google.com/speed/pagespeed/insights/?url=ht
 
 #### 第三节：标记图片
 
-
+</br>
 Less pixels * better compression = less bytes
 
 3.4 CSS背景图片， 重要，多个有启发性的例子
