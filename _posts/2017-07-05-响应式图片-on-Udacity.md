@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 响应式图片 on Udacity      
-categories: code
+category: code
 ---
 
 看了响应式图片，才知道我花了很多时间选择跟编辑的图片原来是一个巨大的坑。

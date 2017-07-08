@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Madame Bovary
-categories: life
+category: life
 
 ---
 
-### I watched 3 movies titled Madame Bovary, nonstop
+I watched 3 movies titled Madame Bovary, nonstop
 
 I was totally blown away. Now I understand why the film 我不是潘金莲 is translated to I'not Madame Bovary. Still these two females are quite different.
 

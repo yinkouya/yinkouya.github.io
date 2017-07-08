@@ -1,7 +1,7 @@
 ---
 layout: post
-title: HTML和CSS入门
-categories: code
+title: HTML和CSS入门 on Udacity
+category: code
 ---
 
 今天一天的时间在看Udacity上面的免费课程“HTML和CSS入门”， 虽是入门课程，但很有效的帮我梳清了条理，还get到了不少知识点，以下是笔记。

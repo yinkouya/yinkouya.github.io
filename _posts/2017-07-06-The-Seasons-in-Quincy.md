@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Seasons in Quincy -- Four Portraits of John Berger   
-categories: code
+category: code
 ---
 
 **Ways of Listening**
@@ -11,3 +11,5 @@ categories: code
 **A Song for Politics**
 
 **Harvest**
+
+I plan to put down a few dialogs here from the movie. Failed to find any subtitles online, I'm asking the Jihua Subtitle Group for help, waiting for their reply.
