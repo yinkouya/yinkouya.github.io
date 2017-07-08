@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 优达学院的响应式图片课程      
+title: 响应式图片 on Udacity      
 categories: code
 ---
 
@@ -8,10 +8,8 @@ categories: code
 
 以下是课程笔记：
 
-
 #### 第一节：准备工作
 
-</br>
 使用 快捷键 Ctrl+Shift+I (Windows) 或 Cmd+Opt+I (Mac) 打开Chrome 开发者工具
 
 [Chrome 开发者工具概览](https://developers.google.com/web/tools/chrome-devtools/)
@@ -24,10 +22,8 @@ categories: code
 
 [Testing Mobile: Emulators, Simulators And Remote Debugging]( https://www.smashingmagazine.com/2014/09/testing-mobile-emulators-simulators-remote-debugging/2/)
 
-
 #### 第二节：单位，格式和环境
 
-</br>
 **Placeholder images**: http://lorempixel.com/  :Just put the custom url in your code like this:`<img src="http://lorempixel.com/400/200" />`
 
 从 Mozilla 开发者社区了解更多关于 **calc()** 的信息: https://developer.mozilla.org/en-US/docs/Web/CSS/calc
@@ -53,7 +49,6 @@ PageSpeedInsight: https://developers.google.com/speed/pagespeed/insights/?url=ht
 
 #### 第三节：标记图片
 
-</br>
 Less pixels * better compression = less bytes
 
 3.4 CSS背景图片， 重要，多个有启发性的例子
@@ -81,9 +76,7 @@ Trajan的column SVG例子：https://upload.wikimedia.org/wikipedia/commons/6/6c/
 20个让你惊艳不已的SVG例子：http://www.creativebloq.com/design/examples-svg-7112785
 SVG动画示例：https://codepen.io/chrisgannon/
 
-
 Pixel Density Display Listing：http://pixensity.com/ : The world's largest collection of pixel density (PPI) display data.
-
 
 #### 一个值得研读的网站 ####
 
