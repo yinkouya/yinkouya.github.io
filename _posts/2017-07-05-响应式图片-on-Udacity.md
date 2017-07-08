@@ -6,7 +6,7 @@ categories: code
 
 看了响应式图片，才知道我花了很多时间选择跟编辑的图片原来是一个巨大的坑。
 
-我的这个blog初步是成形了，打算花一些时间学习更多网页设计课程之后，再慢慢的完善细节。
+这个blog初步是成形了，打算花一些时间学习更多网页设计课程之后，再慢慢的完善细节。
 
 以下是课程笔记：
 
@@ -25,12 +25,11 @@ categories: code
 
 #### 第二节：单位，格式和环境
 
-Placeholder images: http://lorempixel.com/
+**Placeholder images**: http://lorempixel.com/
 
 Just put the custom url in your code like this:`<img src="http://lorempixel.com/400/200" />`
 
-
-从 Mozilla 开发者社区了解更多关于 calc() 的信息: https://developer.mozilla.org/en-US/docs/Web/CSS/calc
+从 Mozilla 开发者社区了解更多关于 **calc()** 的信息: https://developer.mozilla.org/en-US/docs/Web/CSS/calc
 
 
 [PNG, GIF, or JPEG? Which is the Best Image Format for Email?]( https://litmus.com/blog/png-gif-or-jpeg-which-ones-should-you-use-in-email)
