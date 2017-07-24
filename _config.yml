@@ -11,4 +11,4 @@ encoding: "utf-8"
 highlighter: rouge
 future: true
 
-
+permalink: none
