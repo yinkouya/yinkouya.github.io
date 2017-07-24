@@ -1,3 +1,31 @@
+html {font-size: 1em;}
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  line-height: 1.45;
+  color: #333;
+}
+
+p {margin-bottom: 1.3em;}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 2.441em;
+}
+
+h2 {font-size: 1.953em;}
+
+h3 {font-size: 1.563em;}
+
+h4 {font-size: 1.25em;}
+
 footer {
   height:20px;
   text-align: center;
@@ -6,11 +34,6 @@ footer {
 .fixed-bottom {
   position: fixed;
   bottom: 0;width:100%;
-}
-
-* {
-  font-family: 'Lato', sans-serif;
-  font-weight: 400;
 }
 
 img.brand {
@@ -52,7 +75,7 @@ img.footer {
   width: 600px;
   margin: 0 auto;
 }
-  
+
 .main-about {
   width: 600px;
   margin: 0 auto;
@@ -87,8 +110,5 @@ article {
   margin: 0 auto;
 }
 
-article h1, h2, h3 {color: #7c795d; font-size: 40px; margin: 10px; }
-article h4, h5, h6 {color: #7c795d; font-size: 25px; margin: 8px; }
-article p { color: #4c4a37; margin: 5px; }
 article a { color: #ff9900; background: #fff4a3; text-decoration: none; }
 article a:hover { color: #ffcc66 }
