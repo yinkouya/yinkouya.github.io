@@ -89,6 +89,6 @@ article {
 
 article h1, h2, h3 {color: #7c795d; font-size: 40px; margin: 10px; }
 article h4, h5, h6 {color: #7c795d; font-size: 25px; margin: 8px; }
-article p { color: #4c4a37; margin: 10px; }
+article p { color: #4c4a37; margin: 5px; }
 article a { color: #ff9900; background: #fff4a3; text-decoration: none; }
 article a:hover { color: #ffcc66 }
