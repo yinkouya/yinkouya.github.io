@@ -1,3 +1,9 @@
+---
+layout: post
+title: The Mid July Weekend     
+category: life
+---
+
 ## Weekend from July 14 to 17 ##
 
 ### Wisdom Teeth ###
