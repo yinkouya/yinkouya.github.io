@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Seasons in Quincy -- Four Portraits of John Berger   
+title: The Seasons in Quincy
 category: code
 ---
 
