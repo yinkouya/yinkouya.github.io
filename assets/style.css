@@ -103,3 +103,11 @@ article {
 
 article a { color: #ff9900; background: #fff4a3; text-decoration: none; }
 article a:hover { color: #ffcc66 }
+
+.carousel-control-prev {
+  margin-left: -100px;
+}
+
+carousel-control-next {
+  margin-right: -100px;
+}
