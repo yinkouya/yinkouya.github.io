@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<article role="main">
+<article class="main">
     <header>
       <i class="fa fa-unlock" aria-hidden="true"></i>
       <span class="article-date">&nbsp;{{ page.date | date:"%B %d, %Y" }}</span>
       <h1>{{ page.title }}</h1>
     </header>
 
-    <div class="text" id="js-post-content">
+    <p>
         {{ content }}
-    </div>
+    </p>
  </article>
