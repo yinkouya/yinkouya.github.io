@@ -101,7 +101,7 @@ img.brand {
 
 article {
   width: 700px;
-  margin: 0 auto 30px auto;
+  margin: 0 auto;
 }
 
 article a { color: #ff9900; background: #fff4a3; text-decoration: none; }
