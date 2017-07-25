@@ -27,7 +27,7 @@ body {
   display: block;
 }
 /* 填充块和页脚一样高 */
-.site-footer, .page-wrap:after {
+.footer, .page-wrap:after {
   height: 60px; 
 }
 
@@ -48,17 +48,6 @@ h2 {font-size: 1.953em;}
 h3 {font-size: 1.563em;}
 
 h4 {font-size: 1.25em;}
-
-.main {
-  min-height: 100%;
-  margin-bottom: -60px;
-}
-
-.main:after {
-  content: "";
-  display: block;
-  height: 60px;
-}
 
 .footer {
     height: 60px;
@@ -127,7 +116,7 @@ img.brand {
   width: 800px;
   margin: 0 auto;
 }
-
+/*
 article {
   width: 700px;
   margin: 0 auto -60px auto;
@@ -138,6 +127,6 @@ article:after {
   display: block;
   height: 60px;
 }
-
+*/
 article a { color: #ff9900; background: #fff4a3; text-decoration: none; }
 article a:hover { color: #ffcc66 }
