@@ -1,11 +1,6 @@
 url: https://yinkouya.github.io
 baseurl: ""
 
-gems:
-  - jemoji
-
-# github pages and jekyll local use different setting for emoji!
-gems: ["emoji_for_jekyll"]
 
 encoding: "utf-8"
 highlighter: rouge
