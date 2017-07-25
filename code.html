@@ -6,7 +6,7 @@ layout: default
     {% if site.posts %}
       {% for post in site.categories["code"] %}
         <a href="{{ post.url | prepend: site.baseurl }}" class="list-group-item list-group-item-action flex-column align-items-start">
-          <div class="d-flex w-100 justify-content-between">
+          <div class="d-flex w-75 justify-content-between">
             <h5 class="mb-1">{{ post.title }}</h5>
             <small>{{ post.date | date_to_string }}</small>
           </div>
