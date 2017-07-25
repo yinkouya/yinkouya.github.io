@@ -52,6 +52,10 @@ img.brand {
   margin: 0 auto;
 }
 
+.carousel-item > img {
+  margin: 0 auto;
+}
+
 
 .list-group {
   width: 600px;
