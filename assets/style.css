@@ -10,22 +10,6 @@ body {
   height: 100%;
 }
 
-.page-wrap {
-  /* 页面内容撑满100%的屏幕 */
-  min-height: 100%;
-  /* 负边距大小即为页脚高度 */
-  margin-bottom: -60px; 
-}
-/* 用来填充被页脚遮挡部分 */
-.page-wrap:after {
-  content: "";
-  display: block;
-}
-/* 填充块和页脚一样高 */
-.footer, .page-wrap:after {
-  height: 60px; 
-}
-
 p {margin-bottom: 1.3em;}
 
 h1, h2, h3, h4 {
@@ -43,13 +27,6 @@ h2 {font-size: 1.953em;}
 h3 {font-size: 1.563em;}
 
 h4 {font-size: 1.25em;}
-
-.footer {
-    height: 60px;
-    width: 100%;
-    line-height: 60px;
-}
-
 
 img.brand {
   width: 70px;
@@ -111,17 +88,11 @@ img.brand {
   width: 800px;
   margin: 0 auto;
 }
-/*
+
 article {
   width: 700px;
-  margin: 0 auto -60px auto;
+  margin: 0 auto;
 }
 
-article:after {
-  content: "";
-  display: block;
-  height: 60px;
-}
-*/
 article a { color: #ff9900; background: #fff4a3; text-decoration: none; }
 article a:hover { color: #ffcc66 }
