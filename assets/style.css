@@ -35,7 +35,7 @@ h4 {font-size: 1.25em;}
   margin-bottom: -50px;
 }
 
-.page-wrap:after {
+.main:after {
   content: "";
   display: block;
   height: 30px;
