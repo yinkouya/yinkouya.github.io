@@ -52,11 +52,12 @@ img.brand {
   margin: 0 auto;
 }
 
+/*
 #carousel-item {
   width: 1250px;
   margin: 0 auto;
 }
-
+*/
 .carousel-item > img {
   margin: 0 auto;
 }
@@ -104,13 +105,3 @@ article {
 article a { color: #ff9900; background: #fff4a3; text-decoration: none; }
 article a:hover { color: #ffcc66 }
 
-.carousel-control-prev,
-.carousel-control-next {
-  color: #8B5742;
-}
-
-.carousel-control-prev:focus, .carousel-control-prev:hover,
-.carousel-control-next:focus,
-.carousel-control-next:hover {
-  color: #8B5742;
-}
