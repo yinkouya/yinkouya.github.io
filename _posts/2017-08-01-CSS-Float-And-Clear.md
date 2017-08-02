@@ -6,6 +6,7 @@ category: code
 
 When I was taking a SASS tutorial, a piece of code came as something of a novelty to me.
 
+
 ``` css
 #main-nav{
   background: $deepBlue;
@@ -31,6 +32,7 @@ When I was taking a SASS tutorial, a piece of code came as something of a novelt
   clear: both;
 }
 ```
+
 
 As I google my questions, here are several highlights:
 
