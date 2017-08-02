@@ -5,7 +5,7 @@ category: code
 ---
 
 When I was taking a SASS tutorial, a piece of code came as something of a novelty to me.
-```
+~~~ css
 #main-nav{
   background: $deepBlue;
   ul{
@@ -29,7 +29,7 @@ When I was taking a SASS tutorial, a piece of code came as something of a novelt
   display: block;
   clear: both;
 }
-```
+~~~
 As I google my questions, here are several highlights:
 
 ### 1. 盒子模型（box model）& HTML的普通流（normal flow）
