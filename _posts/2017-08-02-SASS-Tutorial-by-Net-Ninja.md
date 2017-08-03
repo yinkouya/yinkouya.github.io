@@ -25,7 +25,7 @@ Think of variables as a way to store information that you want to reuse througho
 
 SCSS is used in the tutorial, since the syntax is similar to CSS, beginner-friendly.
 
-{% highlight ruby %}
+```
 $deepBlue: #032f3e;
 $secionHeading: 24px;
 
@@ -36,7 +36,7 @@ $secionHeading: 24px;
 section h1{
   font-size: $sectionHeading;
 }
-{% end highlight%}
+```
 
 ### SASS Tutorial #4 - Nesting Styles
 Sass will let you nest your CSS selectors in a way that follows the same visual hierarchy of your HTML. Be aware that overly nested rules will result in over-qualified CSS that could prove hard to maintain and is generally considered bad practice.
