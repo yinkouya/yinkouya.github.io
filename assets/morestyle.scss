@@ -7,7 +7,7 @@ $color-accent-bg: #49bf9d;
     }
 }
 
-a {
+.posts li a {
   @include vendor-property('transition', 'color #{$duration-transition} ease-in-out, border-color #{$duration-transition} ease-in-out');
   border-bottom: dotted 1px;
   color: $color-accent-bg;
