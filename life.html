@@ -5,14 +5,14 @@ layout: default
 <div class="row">
   <div class="col-sm-3">
     <div class="card h-50">
-      <img class="card-img-top img-fluid" src="img/topleft.jpg" alt="Card image cap">
+      <img class="card-img-top img-fluid" src="http://via.placeholder.com/200x200" alt="Card image cap">
       <div class="card-block">
         <p class="card-text"><small class="text-muted">July 17, 2017</small></p>
         <a href="{{ site.baseurl }}/life/The-Mid-July-Weekend.html"><h4 class="card-title">The Mid July Weekend</h4></a>
       </div>
     </div>
     <div class="card h-50">
-      <img class="card-img-top img-fluid" src="img/bottomleft.jpg" alt="Card image cap">
+      <img class="card-img-top img-fluid" src="http://via.placeholder.com/200x200" alt="Card image cap">
       <div class="card-block">
         <p class="card-text"><small class="text-muted">July 5, 2017</small></p>
         <a href="{{ site.baseurl }}/life/周轶君.html"><h4 class="card-title">周轶君</h4></a>
@@ -26,7 +26,7 @@ layout: default
         <p class="card-text"><small class="text-muted">July 06, 2017</small></p>
         <a href="{{ site.baseurl }}/life/The-Seasons-in-Quincy.html"><h4 class="card-title">The Seasons in Quincy -- Four Portraits of John Berger</h4></a>
       </div>
-      <img class="card-img-bottom img-fluid" src="img/middle.jpg" alt="Card image cap">
+      <img class="card-img-bottom img-fluid" src="http://via.placeholder.com/400x400" alt="Card image cap">
     </div>
   </div>
 
@@ -39,7 +39,7 @@ layout: default
       </div>
     </div>
     <div class="card h-50">
-      <img class="card-img-top img-fluid" src="img/bottomright.jpg" alt="Card image cap">
+      <img class="card-img-top img-fluid" src="http://via.placeholder.com/200x200" alt="Card image cap">
       <div class="card-block">
         <p class="card-text"><small class="text-muted">June 04, 2017</small></p>
         <a href="{{ site.baseurl }}/life/Madame-Bovary.html"><h4 class="card-title">Madame Bovary</h4></a>
@@ -48,15 +48,11 @@ layout: default
   </div>
 </div>
 
-{% if site.posts %}
-  <div class='container'>
-    <h4>As time goes by</h4>
-    {% for post in site.categories["life"] %}
-    <a class='life-item' href="{{ post.url | prepend: site.baseurl }}">
-      <span class='date'>{{ post.date | date_to_string }}</span>
-      <span class='article'>{{ post.title }}</span>
-    </a>
-    {% endfor %}
-  </div>
-{% endif %}
+<div class="container">
+  <ul class="posts">
+  {% for post in site.categories["life"] %}
+  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+</div>
 </div>
