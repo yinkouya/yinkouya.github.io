@@ -2,7 +2,7 @@
 ---
 
 $duration-transition: 0.2s;
-$peachpuff: #FFDAB9;
+$brown: #534646;
 
 @mixin vendor-property($property, $value) {
     @each $vendor in ('-moz-', '-webkit-', '-o-', '-ms-', '') {
@@ -13,12 +13,12 @@ $peachpuff: #FFDAB9;
 .posts li a {
   @include vendor-property('transition', 'color #{$duration-transition} ease-in-out, border-color #{$duration-transition} ease-in-out');
   border-bottom: dotted 1px;
-  color: $peachpuff;
+  color: $brown;
   text-decoration: none;
 
   &:hover {
     border-bottom-color: transparent;
-    color: $peachpuff !important;
+    color: $brown !important;
     text-decoration: none;
   }
 }
