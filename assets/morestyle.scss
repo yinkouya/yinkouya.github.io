@@ -1,0 +1,21 @@
+$duration-transition: 0.2s;
+$color-accent-bg: #49bf9d;
+
+@mixin vendor-property($property, $value) {
+    @each $vendor in ('-moz-', '-webkit-', '-o-', '-ms-', '') {
+        #{$vendor}#{$property}: #{$value};
+    }
+}
+
+a {
+  @include vendor-property('transition', 'color #{$duration-transition} ease-in-out, border-color #{$duration-transition} ease-in-out');
+  border-bottom: dotted 1px;
+  color: $color-accent-bg;
+  text-decoration: none;
+
+  &:hover {
+    border-bottom-color: transparent;
+    color: $color-accent-bg !important;
+    text-decoration: none;
+  }
+}
