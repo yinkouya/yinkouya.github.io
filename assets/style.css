@@ -5,7 +5,7 @@ body {
   font-family: 'Lato', sans-serif;
   font-weight: 400;
   line-height: 1.45;
-  color: #333;
+  color: #534646;
 }
 
 p {margin-bottom: 1.3em;}
@@ -57,18 +57,8 @@ img.brand {
 }
 
 
-.list-group {
-  width: 600px;
-  margin: 0 auto;
-}
-
 .main-about {
   width: 600px;
-  margin: 0 auto;
-}
-
-.row {
-  width: 1000px;
   margin: 0 auto;
 }
 
