@@ -43,8 +43,8 @@ img.brand {
 
 article {
   background: #FFDAB9; /* Peachpuff*/
-  width: 700px;
-  margin: 0 auto;
+  width: 70%;
+  margin: 1em;
 }
 
 article a { color: #ff9900; background: #fff4a3; text-decoration: none; }
