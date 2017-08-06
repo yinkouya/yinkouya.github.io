@@ -17,7 +17,7 @@ img.brand {
 .default {
   margin: 0em auto 2em auto;
   position: relative;
-  border-bottom-style: ridge;
+  border-bottom-style: solid;
   border-bottom-width： thin;
   border-bottom-color: #534646;
 }
@@ -41,6 +41,7 @@ img.brand {
   margin: 0 auto;
 }
 
+/* how to vertically center a partial width div? */
 article {
   background: #FFDAB9; /* Peachpuff*/
   width: 700px;
@@ -53,6 +54,6 @@ article h1{
 }
 
 article a { color: #ff9900;}
-article a:hover { color: #ffcc66 }
+article a:hover { color: #ffffff }
 
 
