@@ -13,7 +13,7 @@ img.brand {
   width: 70px;
 }
 
-/* navbar */
+/* navbar container*/
 .default {
   margin: 0em auto 2em auto;
   position: relative;
@@ -23,23 +23,18 @@ img.brand {
 }
 
 .nav-item {
-  font-size: 18px;
-  margin: auto 2px;
+  font-size: 1.2em;
+  margin: auto 0.2em;
 }
 
 .navbar-text {
-  font-size: 30px;
+  font-size: 1.9em;
   font-weight: 300;
-}
-
-.main {
-  margin: 0 auto;
 }
 
 .carousel-item > img {
   margin: 0 auto;
 }
-
 
 .main-about {
   width: 600px;
