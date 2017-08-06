@@ -36,31 +36,13 @@ img.brand {
   margin: 0 auto;
 }
 
-.main-about {
+.about {
   width: 600px;
   margin: 0 auto;
 }
 
-.card-img-top {
-  max-width:100%;
-  height:auto;
-}
-
-.card-img-bottom {
-  max-width:100%;
-  height:auto;
-}
-
-.life-item {
-  display: block;
-}
-
-.row-about {
-  width: 800px;
-  margin: 0 auto;
-}
-
 article {
+  background: #E08283; /* New York Pink*/
   width: 700px;
   margin: 0 auto;
 }
