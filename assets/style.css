@@ -89,3 +89,7 @@ article {
 article a { color: #ff9900; background: #fff4a3; text-decoration: none; }
 article a:hover { color: #ffcc66 }
 
+.code img{
+  max-width: 100%;
+}
+
