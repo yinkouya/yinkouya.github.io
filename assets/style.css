@@ -41,13 +41,20 @@ img.brand {
   margin: 0 auto;
 }
 
-article {
+/* Vertically center post */
+.wrap {
+  float: left; /* 自适应内容宽度 */
+  position: relative;
+  left: 50%;
   background: #FFDAB9; /* Peachpuff*/
-  width: 70%;
   margin: 1em;
 }
+article {
+  position: relative;
+  left: -50%;
+}
 
-article a { color: #ff9900; background: #fff4a3; text-decoration: none; }
+article a { color: #ff9900;}
 article a:hover { color: #ffcc66 }
 
 
