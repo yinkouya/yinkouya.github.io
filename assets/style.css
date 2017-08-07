@@ -4,6 +4,7 @@ html {
 
 body {
   font-family: 'Open Sans', sans-serif;
+  font-size: 400;
   line-height: 1.45;
   color: #534646;    /*deep brown*/
 }
@@ -44,8 +45,14 @@ img.brand {
 .about {
   width: 600px;
   margin: 0 auto;
-  font-family: 'Caveat', cursive;
+}
 
+.about h4 {
+  font-family: 'Caveat', cursive;
+}
+
+.about p {
+  font-family: 'Caveat', cursive;
 }
 
 .posts li {
@@ -69,5 +76,3 @@ article h1{
 
 article a { color: #ff9900;}
 article a:hover { color: #ffffff }
-
-
