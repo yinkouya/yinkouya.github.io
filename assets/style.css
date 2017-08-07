@@ -37,7 +37,12 @@ img.brand {
   margin: 0 auto;
 }
 
-.carousel-item h3, p {
+.carousel-item h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 300i;
+}
+
+carousel-item p {
   font-family: 'Open Sans', sans-serif;
   font-size: 300i;
 }
@@ -49,10 +54,12 @@ img.brand {
 
 .about h4 {
   font-family: 'Caveat', cursive;
+  font-size: 2em;
 }
 
 .about p {
   font-family: 'Caveat', cursive;
+  font-size: 1.4em;
 }
 
 .posts li {
