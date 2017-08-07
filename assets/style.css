@@ -41,14 +41,6 @@ img.brand {
   margin: 0 auto;
 }
 
-.about h4 {
-  font-size: 2em;
-}
-
-.about p {
-  font-size: 1.4em;
-}
-
 /* how to vertically center a partial width div? */
 article {
   background: #FFDAB9; /* Peachpuff*/
