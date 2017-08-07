@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: 'Gloria Hallelujah', cursive;
+  font-family: 'Indie Flower', cursive;
   line-height: 1.45;
   color: #534646;    /*deep brown*/
 }
@@ -22,14 +22,14 @@ img.brand {
 }
 
 .nav-item {
-  font-size: 1.2em;
+  font-size: 1.5em;
   font-family: 'Amatic SC', cursive;
   margin: auto 0.2em;
 }
 
 .navbar-text {
   font-family: 'Amatic SC', cursive;
-  font-size: 1.9em;
+  font-size: 2.1em;
 }
 
 .carousel-item > img {
