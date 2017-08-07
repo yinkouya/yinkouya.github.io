@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Reenie Beanie', cursive;
   line-height: 1.45;
   color: #534646;    /*deep brown*/
 }
@@ -23,12 +23,12 @@ img.brand {
 
 .nav-item {
   font-size: 1.2em;
-  font-family: 'Fredericka the Great', cursive;
+  font-family: 'Rock Salt', cursive;
   margin: auto 0.2em;
 }
 
 .navbar-text {
-  font-family: 'Fredericka the Great', cursive;
+  font-family: 'Rock Salt', cursive;
   font-size: 1.9em;
 }
 
