@@ -4,7 +4,6 @@ html {
 
 body {
   font-family: 'Cormorant Garamond', serif;
-  font-weight: 400;
   line-height: 1.45;
   color: #534646;    /*deep brown*/
 }
@@ -24,12 +23,13 @@ img.brand {
 
 .nav-item {
   font-size: 1.2em;
+  font-family: 'Dancing Script', cursive;
   margin: auto 0.2em;
 }
 
 .navbar-text {
+  font-family: 'Dancing Script', cursive;
   font-size: 1.9em;
-  font-weight: 700;
 }
 
 .carousel-item > img {
