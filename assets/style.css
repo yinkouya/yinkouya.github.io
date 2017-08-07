@@ -36,13 +36,17 @@ img.brand {
   margin: 0 auto;
 }
 
+.carousel-item h3, p {
+  font-family: 'Reenie Beanie', cursive;
+}
+
 .about {
   width: 600px;
   margin: 0 auto;
 }
 
 .posts li {
-  font-family: 'Caveat', cursive;
+  font-family: 'Reenie Beanie', cursive;
 }
 
 
