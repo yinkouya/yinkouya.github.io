@@ -54,7 +54,7 @@ article h1{
 }
 
 article p {
-  border-bottom: thin dotted #BFC6A5;
+  text-decoration: dashed underline #BFC6A5;
 }
 aritcle li {
   border-bottom: thin dotted #BFC6A5;
