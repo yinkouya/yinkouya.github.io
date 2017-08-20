@@ -45,8 +45,12 @@ img.brand {
   margin: 0 auto;
 }
 
+.about h4 {
+  margin-top: 1em;
+}
+
 .about img {
-  width: 50%;
+  width: 60%;
 }
 
 /* how to vertically center a partial width div? */
