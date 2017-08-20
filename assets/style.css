@@ -28,6 +28,10 @@ img.brand {
   margin: auto 0.2em;
 }
 
+.fa-heart-o {
+  color: red;
+}
+
 .navbar-text {
   font-size: 2.1em;
 }
