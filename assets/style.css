@@ -40,6 +40,10 @@ img.brand {
   margin: 0 auto;
 }
 
+.col-sm-3 .card img {
+  width: ((100% - (3*2px)) / 4 );
+}
+
 .about {
   width: 600px;
   margin: 0 auto;
