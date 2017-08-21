@@ -152,3 +152,33 @@ app.css:4642
 .gap {
     clear: both;
 }
+
+.post .post-gallery {
+  display: block;
+  position: relative;
+  margin: 0 0 45px;
+  padding: 0;
+  overflow: hidden;
+  background: #fff;
+}
+.post .post-gallery img {
+  width: 100%;
+}
+.post .post-gallery > a {
+  display: block;
+  will-change: opacity;
+}
+.post .post-gallery > a:hover {
+  opacity: 0.8;
+}
+
+.category_container .inner > .columns {
+  padding: 0 10px;
+}
+
+.column, .columns {
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+  width: 100%;
+  float: left;
+}
