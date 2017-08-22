@@ -76,3 +76,6 @@ article h1,h2,h4,h5,h6 {
 article a { color: #ff9900;}
 article a:hover { color: #ffffff }
 
+.gallery-life {
+  display: block;
+}
