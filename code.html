@@ -3,10 +3,10 @@ layout: default
 ---
 <div class="container code-container">
   <div class="row">
-    <div class="col-6 col-sm-12">
+    <div class="col-md-4 col-sm-12">
       <img src="/img/code.jpg" alt="code">
     </div>
-    <div class="col-6 col-sm-12">
+    <div class="col-md-8 col-sm-12">
       <ul class="posts">
       {% for post in site.categories["code"] %}
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
