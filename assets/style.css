@@ -45,10 +45,6 @@ img.brand {
   width: ((100% - (3*2px)) / 4 );
 }
 
-.about {
-  width: 600px;
-  margin: 0 auto;
-}
 
 .about h4 {
   margin-top: 1em;
