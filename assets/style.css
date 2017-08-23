@@ -54,6 +54,14 @@ img.brand {
   width: 60%;
 }
 
+.about-site {
+  background-color: #EEE5F6;
+}
+
+.about-me {
+  background-color: #FAF2CB;
+}
+
 /* how to vertically center a partial width div? */
 article {
   background: #ffff99; /* yellow notebook*/
