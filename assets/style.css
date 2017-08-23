@@ -20,6 +20,10 @@ img.brand {
   border-bottom-style: solid;
   border-bottom-width： thin;
   border-bottom-color: #534646;
+  background-image: url(/images/sea.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .nav-item {
